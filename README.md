@@ -1,4 +1,4 @@
-# Dictionary-Web-App-in-JavaScript
+# [Dictionary-Web-App-in-JavaScript](https://zak455.github.io/Dictionary-Web-App-in-JavaScript/)
 
 This is a web application for searching and retrieving word meanings, examples, and synonyms. The application is built using HTML, CSS, and JavaScript, and it provides a user-friendly interface for looking up word definitions and related information.
 
